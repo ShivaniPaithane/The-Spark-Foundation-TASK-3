@@ -3,6 +3,8 @@ Payment Gateway Inategration
 
 Shivani V. Paithane
 
-Payment Gateway Integration has implemented with HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
+Payment Gateway Integration has implemented with HTML,CSS and JavaScript.
+
+For payment gateway,Razorpay is used.
 
 
