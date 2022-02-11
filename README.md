@@ -1,10 +1,13 @@
-# The-Spark-Foundation-TASK-3
-Payment Gateway Inategration
+# Payment-Gateway-Integration
+Shivani Paithane
 
-Shivani V. Paithane
+Payment Gateway Integration has implemented with HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
 
-Payment Gateway Integration has implemented with HTML,CSS and JavaScript.
+For demo card use
 
-For payment gateway,Razorpay is used.
+Card No:- 4111 1111 1111 1111
 
+cvv:- Any
+
+Validity:- Any
 
